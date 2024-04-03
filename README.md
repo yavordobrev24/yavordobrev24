@@ -1,5 +1,5 @@
 👋 A JavaScript fanatic passionate about crafting dynamic web experiences. 💻 Front-end specialist | 🌐 Node.js enthusiast | 🚀 Love exploring modern JS features. 
 
-🛠️ Tech Stack: JavaScript, Typescript, React,Angular, Node.js, HTML5, CSS3, Git.
+🛠️ Tech Stack: JavaScript, Typescript, React, Angular, PostgreSQL, Node.js, HTML5, CSS3, Git.
 
-🌟 Connect with me on yavordobrev24@gmail.com  to talk JavaScript!
+🌟 Connect with me on yavordobrev24@gmail.com to talk JavaScript!
