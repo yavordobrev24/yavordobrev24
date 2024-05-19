@@ -1,5 +1,11 @@
-👋 A JavaScript fanatic passionate about crafting dynamic web experiences. 💻 Front-end specialist | 🌐 Node.js enthusiast | 🚀 Love exploring modern JS features. 
+👋 Hello! I'm a JavaScript enthusiast dedicated to creating engaging and dynamic web experiences. With a deep passion for front-end development and a keen interest in Node.js, I thrive on exploring and implementing the latest JavaScript features.
 
-🛠️ Tech Stack: JavaScript, Typescript, React, Angular, PostgreSQL, Node.js, HTML5, CSS3, Git.
+🛠️ **Tech Stack:**
+- **Languages:** JavaScript, TypeScript
+- **Frameworks/Libraries:** React, Angular
+- **Backend:** Node.js
+- **Database:** PostgreSQL
+- **Web Technologies:** HTML5, CSS3
+- **Tools:** Git
 
-🌟 Connect with me on yavordobrev24@gmail.com to talk JavaScript!
+🚀 Let's connect and talk JavaScript! Reach out to me at **yavordobrev24@gmail.com**.
