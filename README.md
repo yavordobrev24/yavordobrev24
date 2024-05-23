@@ -19,4 +19,5 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=yavordobrev24&theme=dark&hide_border=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=yavordobrev24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=yavordobrev24&theme=dark&hide_border=true)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yavordobrev24&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
