@@ -2,7 +2,7 @@
 
 🛠️ **Tech Stack:**
 - **Languages:** JavaScript, TypeScript
-- **Frameworks/Libraries:** React, Angular
+- **Frameworks/Libraries:** React.js, Angular, Next.js
 - **Backend:** Node.js
 - **Database:** PostgreSQL
 - **Web Technologies:** HTML5, CSS3
