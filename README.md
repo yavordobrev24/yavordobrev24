@@ -1,6 +1,6 @@
 # 🚀 About Me:
 
-🔥 I am a highly motivated and ambitious frontend developer with a passion for JavaScript, TypeScript and React.<br>
+🔥 I am a highly motivated and ambitious front-end developer with a passion for JavaScript, TypeScript and React.<br>
 🌿 I thrive in dynamic environments that present new challenges and am dedicated to continuous learning and growth.
 
 # 💻 Tech Stack:
