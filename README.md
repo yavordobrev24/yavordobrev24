@@ -1,9 +1,13 @@
 # 🚀 About Me:
+🔥 I am a highly motivated and ambitious Full-Stack Developer with a strong foundation in JavaScript, TypeScript, and React. I specialize in building dynamic and scalable web applications, both on the frontend and backend.
 
-🔥 I am a highly motivated and ambitious front-end developer with a passion for JavaScript, TypeScript and React.<br>
-🌿 I thrive in dynamic environments that present new challenges and am dedicated to continuous learning and growth.
+🌟 I have hands-on experience with modern frameworks and libraries, including Next.js, Angular, and Node.js, allowing me to deliver robust and efficient solutions.
 
-# 💻 Tech Stack:
+🔍 I am passionate about exploring new technologies and best practices, continuously improving my skills, and staying updated with industry trends.
+
+🤝 I thrive in collaborative environments, working with diverse teams to tackle new challenges and deliver innovative results. My experience includes developing user-friendly interfaces and optimizing server-side performance.
+
+🌿 Dedicated to continuous learning and growth, I am committed to pushing the boundaries of technology and contributing to impactful projects.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
